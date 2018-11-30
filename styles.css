@@ -1,0 +1,58 @@
+body{
+    background-color:darksalmon;
+    }
+.container{
+    display:flex;
+    
+    }
+.left{
+    width:30%;
+    border:ridge red 10px;
+    padding:10px;
+    margin:10px;
+    font-family: 'Black Han Sans', sans-serif;
+    
+    }
+.right{
+    
+     width:70%;
+    }
+.image{
+    width:100%;
+    }
+img{
+    
+    padding:15px;
+    height:400px;
+    border:groove gold 30px;
+    }
+p{
+    width:500px;
+    border:ridge purple 5px;
+    font-family: 'Black Han Sans', sans-serif;
+    padding:5px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img {
+    max-height: 400px;
+}
